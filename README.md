@@ -1,3 +1,8 @@
 # YaleDine
+A Swift package for reading from the [YaleDine](https://yaledine.com).
 
-A description of this package.
+## Author
+[Erik Boesen](https://github.com/ErikBoesen)
+
+## License
+[MIT](LICENSE)
